@@ -1,5 +1,5 @@
 #lite-badge {
-  position: absolute !important;
+/*   position: absolute !important;
   padding: 4px 8px !important;
   background-color: white !important;
   z-index: 50 !important;
@@ -9,9 +9,9 @@
   font-size: 14px !important;
   line-height: 20px !important;
   font-weight: 600 !important;
-  border-width: 1px !important;
+  border-width: 1px !important; */
   /* Make sure the badge is always displayed */
-  opacity: 1 !important;
+/*   opacity: 1 !important;
   visibility: visible !important;
   display: flex !important;
   top: auto !important;
@@ -19,7 +19,8 @@
   left: auto !important;
   bottom: 20px !important;
   transition: background-color 0.2s ease-in-out !important;
-  text-decoration: none !important;
+  text-decoration: none !important; */
+  display: none !important;
 }
 
 #lite-badge:hover {
